@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"Tests\\CharacterTest::testDamageCalculation":0.003,"Tests\\CharacterTest::testHealthCannotBeNegative":0,"Tests\\CharacterTest::testIsAliveStatus":0}}
